@@ -12,5 +12,10 @@ sudo apt-get install python3
 ```bash
 python install.py
 ```
+Centos 7
+
+```bash
+sudo yum install centos-release-scl rh-python36
+```
 
 
