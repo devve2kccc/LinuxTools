@@ -10,7 +10,7 @@ Ubuntu
 sudo apt-get install python3 git
 ```
 ```bash
-git clone https://github.com/devve2kkcc/LinuxTools.git && cd LinuxTools/LinuxInstallTools/
+git clone https://github.com/devve2kkcc/LinuxTools.git && cd LinuxTools/
 ```
 ```bash
 python install.py
@@ -21,7 +21,7 @@ Centos 7
 sudo yum install centos-release-scl rh-python36
 ```
 ```bash
-git clone https://github.com/devve2kkcc/LinuxTools.git && cd LinuxTools/LinuxInstallTools/
+git clone https://github.com/devve2kkcc/LinuxTools.git && cd LinuxTools/
 ```
 ```bash
 python install.py
@@ -30,7 +30,7 @@ python install.py
 Debian 9
 
 ```bash
-git clone https://github.com/devve2kkcc/LinuxTools.git && cd LinuxTools/LinuxInstallTools/
+git clone https://github.com/devve2kkcc/LinuxTools.git && cd LinuxTools/
 ```
 ```bash
 python install.py
