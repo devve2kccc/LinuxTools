@@ -35,6 +35,9 @@ git clone https://github.com/devve2kkcc/LinuxTools.git && cd LinuxTools/LinuxIns
 ```bash
 python install.py
 ```
+## Donations
+
+paypal.me/devve2k
 
 
 
