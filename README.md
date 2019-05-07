@@ -1,8 +1,8 @@
 # LinuxInstallTools
 
-This script allows installation of Softwares, and web-applications
+This script allows installation of Softwares, and web-applications.
 
-## Use
+## Usage
 
 Ubuntu
 
@@ -35,5 +35,6 @@ git clone https://github.com/devve2kkcc/LinuxTools.git && cd LinuxTools/LinuxIns
 ```bash
 python install.py
 ```
+
 
 
