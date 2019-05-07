@@ -9,5 +9,8 @@ Ubuntu
 ```bash
 sudo apt-get install python3
 ```
+```bash
+python install.py
+```
 
 
