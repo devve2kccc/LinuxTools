@@ -27,7 +27,7 @@ def quit():
                 
 
 def submenu():
-	submenu = input("Devve~# ")
+	submenu = int(input("Devve~# "))
 	if submenu == 1:
 		os.system("clear")
 		os.system("sudo apt update")
@@ -63,7 +63,7 @@ def submenu():
 
 def select():
 	try:
-		choice = input("Devve~# ")
+		choice = int(input("Devve~# "))
 		
 		if choice == 1:
 			os.system("sudo apt-get update")

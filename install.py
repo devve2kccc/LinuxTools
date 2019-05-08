@@ -11,7 +11,7 @@ os = """
       """
 print(os)
 
-choice = input("Devve~# ")
+choice = int(input("Devve~# "))
 
 if choice == 1:
 	import centos

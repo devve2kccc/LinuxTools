@@ -27,7 +27,7 @@ def quit():
                 
 
 def submenu():
-	submenu = input("Devve~# ")
+	submenu = int(input("Devve~# "))
 	if submenu == 1:
 		os.system("clear")
 		os.system("yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm")
@@ -51,7 +51,7 @@ def submenu():
 
 def select():
 	try:
-		choice = input("Devve~# ")
+		choice = int(input("Devve~# "))
 		
 		if choice == 1:
 			os.system("yum -y update")
